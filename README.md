@@ -11,8 +11,10 @@ To start the GUI:
 ```
 git clone https://github.com/hyumo/pysindy-gui.git
 cd pysindygui
+pip install requirements.txt
 python .
 ```
+
 ## Credits
 - [PySINDy](https://github.com/dynamicslab/pysindy)
 - [DearPyGui](https://github.com/hoffstadt/DearPyGui)
