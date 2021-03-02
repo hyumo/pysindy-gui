@@ -15,6 +15,8 @@ pip install -r requirements.txt
 python .
 ```
 
+[YouTube video tutorial](https://youtu.be/U-Ob98LpXgU)
+
 ## Credits
 - [PySINDy](https://github.com/dynamicslab/pysindy)
 - [DearPyGui](https://github.com/hoffstadt/DearPyGui)
