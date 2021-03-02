@@ -16,8 +16,8 @@ def configure_items(names, **kwargs):
 
 def file_select_cb(sender, data):
     filename = f'{data[0]}//{data[1]}'
-    #filename = "D:/startup/software/sysfind/data/lorenz.csv"
-    #filename = "D:/startup/software/sysfind/data/firstOrder.csv"
+    #filename = "D:/startup/software/pysindygui/data/lorenz.csv"
+    #filename = "D:/startup/software/pysindygui/data/firstOrder.csv"
     try: 
         df = pd.read_csv(filename)
     except:
@@ -438,7 +438,7 @@ class PySINDyGUI(object):
             add_separator()
             add_text("Author: Hang Yu (hyumo)")
             add_text("Email: yuhang.neu@gmail.com")
-            add_text("https://github.com/hyumo/sysfind")
+            add_text("https://github.com/hyumo/pysindy-gui")
 
 
     def run(self):
