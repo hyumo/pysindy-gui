@@ -5,6 +5,14 @@ A graphical user interface for [PySINDy](https://github.com/dynamicslab/pysindy)
 
 ![Snapshot](./images/snapshot.png)
 
+## Tutorial
+
+To start the GUI:
+```
+git clone https://github.com/hyumo/pysindy-gui.git
+cd pysindygui
+python .
+```
 ## Credits
 - [PySINDy](https://github.com/dynamicslab/pysindy)
 - [DearPyGui](https://github.com/hoffstadt/DearPyGui)
