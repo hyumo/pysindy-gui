@@ -12,7 +12,7 @@ To start the GUI:
 git clone https://github.com/hyumo/pysindy-gui.git
 cd pysindygui
 pip install -r requirements.txt
-python .\pysindygui\.
+python -m pysindygui
 ```
 
 [YouTube video tutorial](https://youtu.be/U-Ob98LpXgU)

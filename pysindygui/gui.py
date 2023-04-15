@@ -7,7 +7,8 @@ import numpy as np
 import pysindy as ps
 from sklearn.linear_model import Lasso
 import functools
-import config as cfg
+
+import pysindygui.config as cfg
 
 
 def configure_items(names, **kwargs):

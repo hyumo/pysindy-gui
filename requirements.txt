@@ -1,6 +1,3 @@
-pandas
-numpy
-pysindy
-dearpygui
-
-
+pandas==2.0.0
+pysindy==1.7.5
+dearpygui==0.6.415
